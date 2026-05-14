@@ -28,7 +28,7 @@ export default function Home() {
           Leaflet Clickable Polyline Regions Example
         </h1>
         <a
-          href="#"
+          href="https://www.curtiscode.dev/post/making-leaflet-polylines-easier-to-click-on-mobile"
           className="text-sm text-blue-600 hover:text-blue-800 hover:underline transition-colors"
         >
           📝 Making Leaflet polylines easier to click on mobile - curtiscode.dev
